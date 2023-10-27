@@ -1,0 +1,4 @@
+#URL
+url untuk mengakses halaman login = http://127.0.0.1:8000/icakAdmin/login
+url untuk mengakses halaman register = http://127.0.0.1:8000/icakAdmin/register
+
